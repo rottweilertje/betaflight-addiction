@@ -137,8 +137,6 @@ set roll_srate = 60
 set pitch_srate = 60
 #set yaw_srate = 70
 set yaw_srate = 57
-#set tpa_breakpoint = 1350
-set tpa_breakpoint = 1250
 
 rateprofile 1
 
