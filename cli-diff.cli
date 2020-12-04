@@ -12,10 +12,10 @@ defaults nosave
 
 board_name AIKONF7
 manufacturer_id AIKO
-mcu_id 003400293238510a36353235
+mcu_id 003e003d3238510b36353235
 signature 
 
-# name: Addic4SB
+# name: Addic6SA
 #feature -RX_SERIAL
 #feature -TELEMETRY
 
@@ -113,7 +113,7 @@ set osd_craft_name_pos = 6624
 #set osd_disarmed_pos = 234
 set osd_disarmed_pos = 6378
 #set name = -
-set name = Addic4SB
+set name = Addic6SA
 
 profile 0
 
